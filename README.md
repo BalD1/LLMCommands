@@ -1,3 +1,3 @@
 # LLMCommands
 
-/Gagigou : print ''hello gagigou''
+/Gagigou : print ''hello gagigou'' twice
