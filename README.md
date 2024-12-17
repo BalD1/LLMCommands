@@ -1,3 +1,3 @@
 # LLMCommands
 
-hello : test
+/Gagigou : print ''hello gagigou''
