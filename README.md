@@ -2,4 +2,6 @@
 
 /Gagigou : print ''hello gagigou'' twice
 
-/gougou : print ''oh no'' 
+/gougou : print ''oh yes'' 
+
+/bonjour : say ''bonjour'' in two random languages
