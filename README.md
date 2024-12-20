@@ -9,3 +9,5 @@
 /TheCommandOfDoom : print "DOOM !"
 
 /TheCommandOfMegaDoom : print "MEGA DOOM !"
+
+/TheCommandOfSuperUltraMegaDoom : print "SUPER ULTRA MEGA DOOM !"
