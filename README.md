@@ -11,3 +11,5 @@
 /TheCommandOfMegaDoom : print "MEGA DOOM !"
 
 /TheCommandOfSuperUltraMegaDoom : print "SUPER ULTRA MEGA DOOM !"
+
+/LeCommandOfTHeTest : print "le test"
